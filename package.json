@@ -1,0 +1,11 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "Exercícios práticos de typescript - ADA",
+  "main": "index.js",
+  "scripts": {
+    "start": "rm -rf ./dist && tsc && node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
