@@ -4,7 +4,8 @@
   "description": "Exercícios práticos de typescript - ADA",
   "main": "index.js",
   "scripts": {
-    "start": "rm -rf ./dist && tsc && node ./dist/index.js"
+    "build": "rm -rf ./dist && tsc",
+    "start": "node ./dist/ex1/index.js"
   },
   "author": "",
   "license": "ISC"
