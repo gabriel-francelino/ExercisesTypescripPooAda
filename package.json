@@ -10,7 +10,9 @@
     "ex2": "node ./dist/ex2/index.js",
     "ex3": "node ./dist/ex3/index.js",
     "ex4": "node ./dist/ex4/index.js",
-    "ex5": "node ./dist/ex5/index.js"
+    "ex5": "node ./dist/ex5/index.js",
+    "ex6": "node ./dist/ex6/index.js",
+    "ex7": "node ./dist/ex7/index.js"
   },
   "author": "Gabriel Francelino",
   "license": "ISC"
