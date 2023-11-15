@@ -6,7 +6,8 @@
   "scripts": {
     "build": "rm -rf ./dist && tsc",
     "start": "node ./dist/**/index.js",
-    "ex1": "node ./dist/ex1/index.js"
+    "ex1": "node ./dist/ex1/index.js",
+    "ex2": "node ./dist/ex2/index.js"
   },
   "author": "",
   "license": "ISC"
